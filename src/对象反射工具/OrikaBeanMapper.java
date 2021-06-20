@@ -17,7 +17,7 @@ import ma.glasnost.orika.impl.DefaultMapperFactory;
  * </dependency>
  *
  *
- * Create by @author sharpcsu on 2021/6/20 - 12:03
+ * Create by @author sharpyangwei on 2021/6/20 - 12:03
  */
 public class OrikaBeanMapper {
 
