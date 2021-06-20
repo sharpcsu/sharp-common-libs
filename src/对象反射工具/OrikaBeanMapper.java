@@ -7,6 +7,16 @@ import ma.glasnost.orika.MapperFactory;
 import ma.glasnost.orika.impl.DefaultMapperFactory;
 
 /**
+ * 对象映射
+ *
+ * maven
+ * <dependency>
+ *     <groupId>ma.glasnost.orika</groupId>
+ *     <artifactId>orika-core</artifactId>
+ *     <version>1.5.1</version>
+ * </dependency>
+ *
+ *
  * Create by @author sharpcsu on 2021/6/20 - 12:03
  */
 public class OrikaBeanMapper {
